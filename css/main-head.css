@@ -1,0 +1,10 @@
+.sitehead{
+    position: fixed;
+    z-index: 1000;
+    width: 100vw;
+    height: 88px;
+    background: rgba(0,0,0,.6);
+    transition: .5s;
+    top: 0px;
+}
+
