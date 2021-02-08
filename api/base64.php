@@ -24,4 +24,3 @@
         echo '{"error":"Illegal Input of Type , only accept encode or decode as input!"}';
         break;
     }
-?>

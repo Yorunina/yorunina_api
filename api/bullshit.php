@@ -76,4 +76,3 @@
     header('Content-Type: text/plain; charset=UTF-8');
     echo '{"return":"100","msg":"' . $article . '"}';
     return;
-?>

@@ -42,4 +42,3 @@
         echo '{"error":"Illegal Input of Type , only accept 1 or 2 as input!"}';
         break;
     }
-?>

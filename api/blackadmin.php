@@ -54,4 +54,3 @@ EOF;
       echo $db->lastErrorMsg();
    }
    $db->close();
-?>

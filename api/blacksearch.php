@@ -38,4 +38,3 @@ EOF;
 }
     $db->close();
     return;
-?>

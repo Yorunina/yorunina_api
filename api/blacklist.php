@@ -27,4 +27,3 @@ EOF;
   }
    echo json_encode($jsonArray,JSON_UNESCAPED_UNICODE);
    $db->close();
-?>

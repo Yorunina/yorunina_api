@@ -21,4 +21,3 @@
     }
     $animation->writeImages($path.$output,true);//写入到文件
     echo "<img src='" . $path . $output . "' />";
-?>
